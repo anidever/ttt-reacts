@@ -9,6 +9,12 @@ module.exports = {
       screens: {
         xs: '480px',
       },
+      cursor: {
+        pointer: 'pointer',
+      },
+      fontFamily: {
+        mono: 'Comic Sans MS',
+      },
     },
   },
   variants: {},
